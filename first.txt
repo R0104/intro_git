@@ -2,3 +2,4 @@ a
 aiueo
 woaa
 git status
+git diff
